@@ -32,9 +32,6 @@ With experience in integrating payment gateways and working on various projects 
 - **Technologies**: PHP (Laravel), MySQL, Tailwind CSS
 - **Link**: [Repository Link](https://github.com/your-username/project-name)
 
----
-
-Feel free to customize this with your details, and add or modify sections as needed. This README will provide visitors with an overview of who you are, your skills, and your most notable projects.
 
 <!--
 **mel-ak/mel-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
