@@ -1,7 +1,3 @@
-Here's a sample README template for your GitHub profile:
-
----
-
 # Hi there! 👋 I'm Melak Sisay
 
 ## 👨‍💻 About Me
