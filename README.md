@@ -16,10 +16,10 @@ With experience in integrating payment gateways and working on various projects 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com)
-- [Twitter](https://twitter.com/your-handle)
-- [Personal Blog](https://your-blog.com)
+- [LinkedIn](https://www.linkedin.com/in/melake-sisay-ab6a3a105)
+- [Portfolio](https://example.com)
+- [Twitter](https://x.com/MelakeSisay)
+- [Personal Blog](https://example.com)
 
 ## 🛠️ Featured Projects
 ### 1. **[Project Name]**
