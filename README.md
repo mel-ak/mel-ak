@@ -4,10 +4,15 @@
 I'm a **Full Stack Developer** with a strong passion for building efficient and scalable web applications. I specialize in creating dynamic and interactive user interfaces and developing robust backend systems. My tech stack includes **React, Node.js, TypeScript, PostgreSQL**, and **Tailwind CSS**, among others. 
 
 With experience in integrating payment gateways and working on various projects that range from e-commerce platforms to payment solutions, I'm always ready to take on new challenges and learn new technologies. I'm also dedicated to contributing to open-source projects and collaborating with the development community.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mel-ak&label=Profile%20views&color=0e75b6&style=flat" alt="mel-ak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mel-ak" alt="mel-ak" /></a> </p>
 
+
+- 📫 How to reach me melakesisay@gmail.com
+    <h3 align="left">Connect with me: +251 93 558 7112</h3>
+  
 ## 💻 Technologies & Tools
 - **Frontend**: React, Next.js, Tailwind CSS, Redux Toolkit, Bootstrap, Emotion
 - **Backend**: Node.js, NestJS, TypeScript, Golang Express, PHP (Laravel)
@@ -18,6 +23,11 @@ With experience in integrating payment gateways and working on various projects 
 ## 🚀 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mel-ak&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mel-ak&show_icons=true&locale=en&layout=compact" alt="mel-ak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mel-ak&show_icons=true&locale=en" alt="mel-ak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mel-ak&" alt="mel-ak" /></p>
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melake-sisay-ab6a3a105)
 - [Portfolio](https://me-port-sigma.vercel.app/)
