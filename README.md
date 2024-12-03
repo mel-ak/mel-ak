@@ -4,6 +4,9 @@
 I'm a **Full Stack Developer** with a strong passion for building efficient and scalable web applications. I specialize in creating dynamic and interactive user interfaces and developing robust backend systems. My tech stack includes **React, Node.js, TypeScript, PostgreSQL**, and **Tailwind CSS**, among others. 
 
 With experience in integrating payment gateways and working on various projects that range from e-commerce platforms to payment solutions, I'm always ready to take on new challenges and learn new technologies. I'm also dedicated to contributing to open-source projects and collaborating with the development community.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mel-ak&label=Profile%20views&color=0e75b6&style=flat" alt="mel-ak" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mel-ak" alt="mel-ak" /></a> </p>
 
 ## 💻 Technologies & Tools
 - **Frontend**: React, Next.js, Tailwind CSS, Redux Toolkit, Bootstrap, Emotion
