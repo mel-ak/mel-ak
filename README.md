@@ -21,7 +21,6 @@ With experience in integrating payment gateways and working on various projects 
 - **Other**: Git, FFmpeg, Golang
 
 ## 🚀 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mel-ak&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mel-ak&show_icons=true&locale=en&layout=compact" alt="mel-ak" /></p>
 
