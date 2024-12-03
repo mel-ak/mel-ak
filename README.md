@@ -20,7 +20,6 @@ With experience in integrating payment gateways and working on various projects 
 - **DevOps**: AWS, GitLab CI/CD, Docker
 - **Other**: Git, FFmpeg, Golang
 
-## 🚀 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mel-ak&show_icons=true&locale=en&layout=compact" alt="mel-ak" /></p>
 
