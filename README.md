@@ -17,7 +17,7 @@ With experience in integrating payment gateways and working on various projects 
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melake-sisay-ab6a3a105)
-- [Portfolio](https://example.com)
+- [Portfolio](https://me-port-sigma.vercel.app/)
 - [Twitter](https://x.com/MelakeSisay)
 - [Personal Blog](https://example.com)
 
