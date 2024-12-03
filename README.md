@@ -25,7 +25,7 @@ With experience in integrating payment gateways and working on various projects 
 ### 1. **Mela File Explorer**
 - **Description**: Mela File Explorer is a full-featured, user-friendly web application for navigating, managing, and interacting with file systems. Built with Laravel and styled using Tailwind CSS, this project provides a clean and responsive interface to view directories, upload files, preview documents, and search for specific content within the file structure.
 - **Technologies**: Laravel, Tailwind CSS, PHP, JavaScript, HTML, CSS
-- **Link**: [Repository Link](https://github.com/your-username/project-name)
+- **Link**: [Repository Link](https://github.com/mel-ak/mela-laravel-file)
 
 ### 2. **[Project Name]**
 - **Description**: A brief description of your project and what it does.
