@@ -27,11 +27,6 @@ With experience in integrating payment gateways and working on various projects 
 - **Technologies**: Laravel, Tailwind CSS, PHP, JavaScript, HTML, CSS
 - **Link**: [Repository Link](https://github.com/mel-ak/mela-laravel-file)
 
-### 2. **[Project Name]**
-- **Description**: A brief description of your project and what it does.
-- **Technologies**: PHP (Laravel), MySQL, Tailwind CSS
-- **Link**: [Repository Link](https://github.com/mel-ak/mela-laravel-file)
-
 
 <!--
 **mel-ak/mel-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
