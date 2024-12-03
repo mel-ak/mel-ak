@@ -13,7 +13,7 @@ With experience in integrating payment gateways and working on various projects 
 - **Other**: Git, FFmpeg, Golang
 
 ## 🚀 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mel-ak&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melake-sisay-ab6a3a105)
