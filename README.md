@@ -39,6 +39,11 @@ With experience in integrating payment gateways and working on various projects 
 - **Technologies**: Laravel, Tailwind CSS, PHP, JavaScript, HTML, CSS
 - **Link**: [Repository Link](https://github.com/mel-ak/mela-laravel-file)
 
+### 2. **# Mela Multiplayer Backend**
+- **Description**: Mela Multiplayer Backend is a robust and scalable server-side application designed for real-time multiplayer games. It leverages WebSockets and Redis to provide features such as matchmaking, room management, real-time player actions, scoring, and leaderboard functionality. Built with Node.js and Socket.io, this backend integrates seamlessly with front-end game engines like Unity or Phaser to deliver a smooth gaming experience.
+- **Technologies**: Node.js, Socket.io, Redis, JavaScript
+- **Link**: [Repository Link](https://github.com/mel-ak/mela-multi-player)
+
 
 <!--
 **mel-ak/mel-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
