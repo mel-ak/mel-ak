@@ -27,8 +27,6 @@ With experience in integrating payment gateways and working on various projects 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mel-ak&" alt="mel-ak" /></p>
 
-<a href="https://app.daily.dev/melak27"><img src="https://api.daily.dev/devcards/v2/z5BVjrh3xAjylSk8IFyN4.png?type=default&r=4bv" width="356" alt="Melak's Dev Card"/></a>
-
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melake-sisay-ab6a3a105)
 - [Portfolio](https://me-port-sigma.vercel.app/)
@@ -46,6 +44,7 @@ With experience in integrating payment gateways and working on various projects 
 - **Technologies**: Node.js, Socket.io, Redis, JavaScript
 - **Link**: [Repository Link](https://github.com/mel-ak/mela-multi-player)
 
+<a href="https://app.daily.dev/melak27"><img src="https://api.daily.dev/devcards/v2/z5BVjrh3xAjylSk8IFyN4.png?type=default&r=4bv" width="356" alt="Melak's Dev Card"/></a>
 
 <!--
 **mel-ak/mel-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
