@@ -44,6 +44,11 @@ With experience in integrating payment gateways and working on various projects 
 - **Technologies**: Node.js, Socket.io, Redis, JavaScript
 - **Link**: [Repository Link](https://github.com/mel-ak/mela-multi-player)
 
+### 3. **Mela YouTube Video Downloader**
+- **Description**: Mela YouTube Video Downloader is a simple and efficient Python application designed to download videos from YouTube. It uses the yt-dlp library to provide real-time download progress updates, automatic file naming, and error handling. The application is lightweight and user-friendly, making it ideal for users who need a quick solution for saving videos offline.
+- **Technologies**: Python, yt-dlp, Makefile
+- **Link**: [Repository Link](https://github.com/mel-ak/mela-youtube-video-downloader)
+
 <a href="https://app.daily.dev/melak27"><img src="https://api.daily.dev/devcards/v2/z5BVjrh3xAjylSk8IFyN4.png?type=wide&r=4bv" width="652" alt="Melak's Dev Card"/></a>
 
 <!--
