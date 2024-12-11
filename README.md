@@ -9,7 +9,7 @@ With experience in integrating payment gateways and working on various projects 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mel-ak" alt="mel-ak" /></a> </p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mel-ak" alt="GitHub Streak" /></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mel-ak&theme=merko" alt="mel-ak" /> </p> 
+
 
 - 📫 How to reach me melakesisay@gmail.com
     <h3 align="left">Connect with me: +251 93 558 7112</h3>
