@@ -8,6 +8,7 @@ With experience in integrating payment gateways and working on various projects 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mel-ak&label=Profile%20views&color=0e75b6&style=flat" alt="mel-ak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mel-ak" alt="mel-ak" /></a> </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mel-ak" alt="GitHub Streak" /></a>
 
 
 - 📫 How to reach me melakesisay@gmail.com
