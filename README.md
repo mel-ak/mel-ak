@@ -25,7 +25,7 @@ With experience in integrating payment gateways and working on various projects 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mel-ak&show_icons=true&locale=en&layout=compact" alt="mel-ak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mel-ak&show_icons=true&locale=en" alt="mel-ak" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mel-ak"/></a>
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melake-sisay-ab6a3a105)
