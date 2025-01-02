@@ -25,6 +25,8 @@ With experience in integrating payment gateways and working on various projects 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mel-ak&show_icons=true&locale=en&layout=compact" alt="mel-ak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mel-ak&show_icons=true&locale=en" alt="mel-ak" /></p>
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=mel-ak" alt="mel-ak" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ## 🔗 Connect with Me
